@@ -1,7 +1,8 @@
+
 /*****
  
- All the resources for this project:
- https://randomnerdtutorials.com/
+CAF PROIEKTURAKO PROGRAMA. 
+Aldez aurretik gogoratu libreriak isntalatzeaz.
  
 *****/
 
@@ -10,21 +11,18 @@
 #include <MD_AD9833.h>
 #include <SPI.h>
 
-// Pins for SPI comm with the AD9833 IC
-#define DATA  13  ///< SPI Data pin number
+// Pins for SPI comm with the AD9833 
+#define DATA  12  ///< SPI Data pin number
 #define CLK   14  ///< SPI Clock pin number
 #define FSYNC 15  ///< SPI Load pin number (FSYNC in AD9833 usage)
 
-//Relearen pinak
-int relay = 12;
-//#define relayNO 4 //Normally Open
-//#define relayNC 5 //Normally Close
+//Relearen pina
+int relay = 13;
 
-String payload; // Jasota mezua
+String payload; // Jasotako mezua
 float freqF; // Frekuentzia gordetzeko float bezala.
 
 MD_AD9833  AD(DATA, CLK, FSYNC); // Arbitrary SPI pins
-
 
 // Change the credentials below, so your ESP8266 connects to your router
 const char* ssid = "donbosco_caf";
@@ -73,24 +71,23 @@ void callback(String topic, byte* message, unsigned int length) {
   Serial.println(payload);
 
   //Serial.print(". To float: ");
-    //Serial.println(freqF);
-  
- if(topic=="donbosco_tester/frequency"){ 
+  //Serial.println(freqF);
+ 
+ if(topic=="donbosco_tester/frequency"){
        freqF = payload.toFloat();    
        freqF *= 2;
        Serial.print("Changing frequency to ");
        AD.setFrequency(MD_AD9833::CHAN_0, freqF);
        Serial.println(freqF);
     }
-       
+  
  /*if(topic=="donbosco_tester/stop"){
-        Serial.print("Stoppin the frequency... ");     
+        Serial.print("Stoppin the frequency... ");    
         AD.setFrequency(MD_AD9833::CHAN_0, 0);
         Serial.print("Stopped signal. ");
     }*/
  if(topic=="donbosco_tester/relay"){
-  Serial.println("RELAY TOPIC BARRUAN");
-     Serial.print("Changing direction to... ");
+      Serial.print("Changing direction to... ");
     if(payload == "forward"){
       digitalWrite(relay, HIGH);
       Serial.println("PINA HIGH");
@@ -107,7 +104,6 @@ void callback(String topic, byte* message, unsigned int length) {
 }
 
 // This functions reconnects your ESP8266 to your MQTT broker
-// Change the function below if you want to subscribe to more topics with your ESP8266 
 
 void reconnect() {
   // Loop until we're reconnected
@@ -115,7 +111,8 @@ void reconnect() {
     Serial.print("Attempting MQTT connection...");
     if (client.connect("ESP8266Client")) {
       Serial.println("connected");  
-     
+      
+     //zure topic-ak jarri hauen ordez
       client.subscribe("donbosco_tester/frequency");
       client.subscribe("donbosco_tester/stop");
       client.subscribe("donbosco_tester/relay");
@@ -145,11 +142,6 @@ void setup() {
 // For this project, you don't need to change anything in the loop function. Basically it ensures that you ESP is connected to your broker
 void loop() {
 
-//  digitalWrite(relay,HIGH);
-//  delay(3000);
-//  digitalWrite(relay,LOW);
-//  delay(3000);
-
   if (!client.connected()) {
     reconnect();
   }
@@ -158,5 +150,5 @@ void loop() {
           Serial.println("client.connect");
   }
 
-  
+ 
 } 
