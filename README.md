@@ -6,3 +6,4 @@ Don Boscoko ikasle-talde bat gara, eta proiektu bat egin dugu CAF enpresarentzat
 # MATERIAL ZERRENDA
 
 -RaspberryPi 1B+ eta bere elikatze iturria.
+![rasberry Pi 1B](https://user-images.githubusercontent.com/98529068/154254098-74c314e1-829a-4ac6-a22b-81eac90f24f2.jpg)
