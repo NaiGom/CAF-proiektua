@@ -81,6 +81,7 @@ Honetaz aparte ere, MQTT protokoloa instalatu behar duzu Dashboard-etik ESP8266-
 - ARDUINO PROGRAMA
 
 Arduino programa Node Red-eko topic-a eta Payloada jasotzeko erabiltzen da. Baita ere AD9833 Txipari seinale karratua, frekuentziak eta norabidea bidaltzen zaio.
+
 Goian daukazu ARDUINO programa egina.
 
 
