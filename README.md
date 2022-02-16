@@ -80,17 +80,31 @@ Honetaz aparte ere, MQTT protokoloa instalatu behar duzu Dashboard-etik ESP8266-
 
 - ARDUINO PROGRAMA
 
-Arduino programa Node Red-eko topic-a eta Payloada jasotzeko erabiltzen da. Baita ere AD9833 Txipari seinale karratua, frekuentziak eta norabidea bidaltzen zaio.
+Beheko codigo hau sartu behar duzu librerientzako eta ESP8266-ko pinak deklaratzeko.
+![program1](https://user-images.githubusercontent.com/96518844/154363950-4f348ab5-1fec-45cf-95d7-ca2fbc843417.PNG)
 
-Goian daukazu ARDUINO programa egina.
 
 
 
 - PULTSU SORTZAILEA
 
+Pultsuak sortzeko AD9833 txipa erabili genuen. ESP8266-tik etortzen den frekuentzia AD9833 txipara bidaltzen dio, pultsu hoiek desfasatzen ditugu eta gero anplifikatzen ditugu. Ondoren, pultsu hoiek erreletara joango dira eta errele hoiek trenaren norabidea aldatuko dute. Azkenik, irteeran bi seinale izango ditugu 90 gradutara desfasatuta. 
+
+![pcb](https://user-images.githubusercontent.com/98529068/154375899-683e6553-bf27-47da-b571-0c5b25836328.PNG)
+
+Hortaz aparte, elikatze iturri bat daukagu 230V-tara elikatuta. Honek, hainbat pin ditu boltai desbedinarekin. Pin hoiek, erreleak, ad9833-a, Raspberry-a, ESP8266-a eta txipak elikatzeko erabiltzen dira.
+
+Hurrengo pausoa, PCB plaka diseinatzea da. Horretarako, proteusaren konexioak hartzen ditugu eta PCB plaka diseinatzen dugu. 
+
+![image](https://user-images.githubusercontent.com/98529068/154376587-ba6952da-8f41-4791-952c-212b02bd5442.png)
+
+Ikusten den bezala, konexio gorriak eta urdinak ikusten dira. Horrek esaten du, bi aldetatik soldatu daitekeela. Gorriak plakarean goiko aldean soldatzen dela esan nahi du. Eta urdina berriz, beheko partean. Hortaz aparte, ESP8266 eta AD9833-en package-ak sortu ditugu. Kontuan izan behar da, PCB plaka egiterakoan konponente hauen neurriak hartzea eta zuloak aldatzea.
+
+![download](https://user-images.githubusercontent.com/98529068/154375749-ff506a88-9464-46df-948a-976cf8cb3a05.jpg)
+
 - MUNTAKETA
 
-Muntaketa egiteko zerrendako kaxa beharko duzu. Honi zuloak egin behar dizkiozu brokarekin eta ondoren lijatu ondo geratzeko. Hau, noski, jarri behar dituzun  gauzen arabera. 
+Bukatzeko, Pcb-a, raspberry-a eta elikatze iturria bateratu behar dira kaxa batean. Horretarako, muntaketa egiteko zerrendako kaxa beharko duzu. Honi zuloak egin behar dizkiozu brokarekin eta ondoren lijatu ondo geratzeko. Hau, noski, jarri behar dituzun  gauzen arabera. 
 
 ![IMG20220216202026](https://user-images.githubusercontent.com/96518844/154363062-49a24bb2-a8ce-4e14-9180-f6db8bbae1b5.jpg)
 
