@@ -1,11 +1,18 @@
 # CAF-proiektua
 # SARRERA
+
 Don Boscoko ikasle-talde bat gara, eta proiektu bat egin dugu CAF enpresarentzat. Trenen abiaduraren simulazioan oinarritzen da gure proiektua. Gure proiektuaren helburua maiztasun desberdinak sartuz gero, trenak abiadura desberdinak detektatzea da. Hortaz aparte, trenaren norantza aldatzea lortu behar dugu.
+
 # MATERIAL ZERRENDA
+
 -  RaspberryPI  1B +  honen elikatze iturria.
+
 ![rasberry Pi 1B](https://user-images.githubusercontent.com/98529068/154254936-fa040963-2bd5-4787-af55-68eb37bb5bb6.jpg)
+
 ![Rasberry Pi elikatze iturria](https://user-images.githubusercontent.com/98529068/154255028-2c7a8f42-36ed-4f33-8595-8bfd65c25953.jpg)
+
 RaspberryPI-a  Node-Red instalatzeko  eta WiFi sarea sortzeko erabili dugu.
+
 Elikatze iturria RaspberryPI-a elikatzeko.
 
 - MicroSD txartela
@@ -33,8 +40,8 @@ Saretik 230V hartzen ditu eta 5 pinetan banatzen da (5V, GND, -15V eta 15V). Ber
 Uhin sinusoidalak, karratuak edo triangeluarrak sortzen dituen txipa da.
 
 - ESP8266
-![esp8266](https://user-images.githubusercontent.com/98529068/154266413-6cf8d5e4-c382-42ca-9f1c-6111e0489eaf.jpg)
 
+![esp8266](https://user-images.githubusercontent.com/98529068/154266413-6cf8d5e4-c382-42ca-9f1c-6111e0489eaf.jpg)
 
 Arduinoren antzeko garapen-plataforma da, bereziki gauzen Internetera bideratua. AD9833 txiparekin bateratu dugu.
 
@@ -48,5 +55,5 @@ Trenaren norantza aldatzeko erabiliko dugu.
 
 Osagai guztiak sartzeko eta CAF-i emateko erabiliko dugu.
 
--...
+- ...
  
