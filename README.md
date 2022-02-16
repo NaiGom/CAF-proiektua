@@ -79,6 +79,7 @@ Proiektukoaren zati garrantzitsua da, CAF-eko langileek honekin frekuentzia eta 
 Honetaz aparte ere, MQTT protokoloa instalatu behar duzu Dashboard-etik ESP8266-ra informazioa bidaltzeko. Enlaze hontan sartu deskargatzeko: https://www.luisllamas.es/como-instalar-mosquitto-el-broker-mqtt/.
 
 - ARDUINO PROGRAMA
+
 Beheko codigo hau sartu behar duzu librerientzako eta ESP8266-ko pinak deklaratzeko.
 ![program1](https://user-images.githubusercontent.com/96518844/154363950-4f348ab5-1fec-45cf-95d7-ca2fbc843417.PNG)
 
