@@ -9,9 +9,8 @@ Don Boscoko ikasle-talde bat gara, eta proiektu bat egin dugu CAF enpresarentzat
 ![rasberry Pi 1B](https://user-images.githubusercontent.com/98529068/154254936-fa040963-2bd5-4787-af55-68eb37bb5bb6.jpg)
 ![Rasberry Pi elikatze iturria](https://user-images.githubusercontent.com/98529068/154255028-2c7a8f42-36ed-4f33-8595-8bfd65c25953.jpg)
 
-RaspberryPI-a  Node-Red instalatzeko  eta WiFi sarea sortzeko erabili dugu. Elikatze iturria ras
+RaspberryPI-a  Node-Red instalatzeko  eta WiFi sarea sortzeko erabili dugu.
 Elikatze iturria RaspberryPI-a elikatzeko.
-
 
 - MicroSD txartela
 
@@ -20,6 +19,7 @@ Elikatze iturria RaspberryPI-a elikatzeko.
 Raspberry Pi batek micro SD txartel bat erabiltzen du disko gogor gisa eta edozein informazio gordetzeko.
 
 - WiFi egokitzailea.
+
 ![Wifi adaptadorea](https://user-images.githubusercontent.com/98529068/154264082-ebc42ccc-f5ba-4549-8943-bc583af4821e.jpg)
 
 WiFi sarearentzako erabili beharko duzu .
@@ -39,4 +39,18 @@ Uhin sinusoidalak, karratuak edo triangeluarrak sortzen dituen txipa da.
 - ESP8266
 ![esp8266](https://user-images.githubusercontent.com/98529068/154266413-6cf8d5e4-c382-42ca-9f1c-6111e0489eaf.jpg)
 
-AD9833  txiparekin  
+
+Arduinoren antzeko garapen-plataforma da, bereziki gauzen Internetera bideratua. AD9833 txiparekin bateratu dugu.
+
+- 2 errele
+
+![rele 5v](https://user-images.githubusercontent.com/98529068/154269593-ec46f5e9-4ca5-4766-8370-a7afacfd7685.jpg)
+
+Trenaren norantza aldatzeko erabiliko dugu.
+
+- Kaxa
+
+Osagai guztiak sartzeko eta CAF-i emateko erabiliko dugu.
+
+-...
+ 
