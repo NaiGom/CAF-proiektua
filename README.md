@@ -5,6 +5,7 @@ Don Boscoko ikasle-talde bat gara, eta proiektu bat egin dugu CAF enpresarentzat
 
 # MATERIAL ZERRENDA
 
+
 -  RaspberryPI  1B +  honen elikatze iturria.
 
 ![rasberry Pi 1B](https://user-images.githubusercontent.com/98529068/154254936-fa040963-2bd5-4787-af55-68eb37bb5bb6.jpg)
@@ -14,16 +15,20 @@ Don Boscoko ikasle-talde bat gara, eta proiektu bat egin dugu CAF enpresarentzat
 RaspberryPI-a  Node-Red instalatzeko  eta WiFi sarea sortzeko erabili dugu.
 Elikatze iturria RaspberryPI-a elikatzeko.
 
+
 - MicroSD txartela
 
 ![MicroSD](https://user-images.githubusercontent.com/98529068/154263610-81146313-2e14-4e58-b6af-fd639c224e4d.jpg)
 
 Raspberry Pi batek micro SD txartel bat erabiltzen du disko gogor gisa eta edozein informazio gordetzeko.
 
+
 - WiFi egokitzailea.
+
 ![Wifi adaptadorea](https://user-images.githubusercontent.com/98529068/154264082-ebc42ccc-f5ba-4549-8943-bc583af4821e.jpg)
 
 WiFi sarearentzako erabili beharko duzu .
+
 
 - Elikatz iturria
 
@@ -31,11 +36,13 @@ WiFi sarearentzako erabili beharko duzu .
 
 Saretik 230V hartzen ditu eta 5 pinetan banatzen da (5V, GND, -15V eta 15V). Bere funtzioa, PCB plakaren konponenteak elikatzea da.
 
+
 - AD9833 TXIPA
 
 ![ad9833](https://user-images.githubusercontent.com/98529068/154265437-8c7ac05a-d526-4afa-a6f5-c48bfb1cd1b8.jpg)
 
 Uhin sinusoidalak, karratuak edo triangeluarrak sortzen dituen txipa da.
+
 
 - ESP8266
 
@@ -43,11 +50,13 @@ Uhin sinusoidalak, karratuak edo triangeluarrak sortzen dituen txipa da.
 
 Arduinoren antzeko garapen-plataforma da, bereziki gauzen Internetera bideratua. AD9833 txiparekin bateratu dugu.
 
+
 - 2 errele
 
 ![rele 5v](https://user-images.githubusercontent.com/98529068/154269593-ec46f5e9-4ca5-4766-8370-a7afacfd7685.jpg)
 
 Trenaren norantza aldatzeko erabiliko dugu.
+
 
 - Kaxa
 
