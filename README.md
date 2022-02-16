@@ -10,4 +10,3 @@ Wifi sarea  sortu
 Pultsu  sortzailea
 Seinalearen desfasea
 
-
