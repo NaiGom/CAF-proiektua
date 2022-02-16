@@ -10,4 +10,12 @@ Don Boscoko ikasle-talde bat gara, eta proiektu bat egin dugu CAF enpresarentzat
 ![rasberry Pi 1B](https://user-images.githubusercontent.com/98529068/154254936-fa040963-2bd5-4787-af55-68eb37bb5bb6.jpg)
 ![Rasberry Pi elikatze iturria](https://user-images.githubusercontent.com/98529068/154255028-2c7a8f42-36ed-4f33-8595-8bfd65c25953.jpg)
 
-RaspberryPI-a  Node-Red instalatzeko  eta WiFi sarea sortzeko erabili dugu.
+RaspberryPI-a  Node-Red instalatzeko  eta WiFi sarea sortzeko erabili dugu. Elikatze iturria ras
+Elikatze iturria RaspberryPI-a elikatzeko.
+
+
+- MicroSD txartela
+
+![MicroSD](https://user-images.githubusercontent.com/98529068/154263610-81146313-2e14-4e58-b6af-fd639c224e4d.jpg)
+
+Raspberry Pi batek micro SD txartel bat erabiltzen du disko gogor gisa eta edozein informazio gordetzeko.
