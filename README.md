@@ -17,6 +17,7 @@ Elikatze iturria RaspberryPI-a elikatzeko.
 
 
 
+
 - MicroSD txartela
 
 ![MicroSD](https://user-images.githubusercontent.com/98529068/154263610-81146313-2e14-4e58-b6af-fd639c224e4d.jpg)
