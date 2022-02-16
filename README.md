@@ -5,6 +5,6 @@ Don Boscoko ikasle-talde bat gara, eta proiektu bat egin dugu CAF enpresarentzat
 
 # MATERIAL ZERRENDA
 
-https://github.com/NaiGom/CAF-proiektua/blob/feature/Materialaren%20argazkiak/rasberry%20Pi%201B.jpg
+![rasberry Pi 1B](https://user-images.githubusercontent.com/98529068/154254799-2a182c84-aea8-488c-bb89-f534ca4420a7.jpg)
 
 -RaspberryPi 1B+ eta bere elikatze iturria.
