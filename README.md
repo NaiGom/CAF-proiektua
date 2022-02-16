@@ -6,8 +6,8 @@ MATERIAL ZERRENDA
 - Raspberry p  i 
 
 PROIEKTUAREN ZATIAK
-Interfaz de Usuario
-Wifi sarea  sortu
-Pultsu  sortzailea
-Seinalearen desfasea
+- Interfaz de Usuario
+- Wifi sarea  sortu
+- Pultsu  sortzailea
+- Seinalearen desfasea
 
