@@ -27,7 +27,7 @@ Raspberry Pi batek micro SD txartel bat erabiltzen du disko gogor gisa eta edoze
 
 WiFi sarearentzako erabili beharko duzu .
 
-- Elikatz iturria
+- Elikatze iturria
 
 ![Elikatze iturria](https://user-images.githubusercontent.com/98529068/154264595-50a81ad8-21b3-4333-a89b-4aefba5bc885.jpg)
 
@@ -62,6 +62,10 @@ Osagai guztiak sartzeko eta CAF-i emateko erabiliko dugu.
 # Erronkaren zatiak 
 
 - WIFI SAREA
+
+ Lehen urratsa, Raspberryren sistema eragilea SD txartelera instalatzea izan zen. Gero, Wifi sarea hasi giñen sortzen komandu batzuen bitartez.
+
+![micro sd +raspberry](https://user-images.githubusercontent.com/98529068/154331566-b8e9e13b-ecae-4901-88dd-c0db344f4cce.jpg)
 
 - INTERFAZ ERABILTZAILEA
 
