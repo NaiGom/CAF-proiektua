@@ -21,7 +21,6 @@ Elikatze iturria RaspberryPI-a elikatzeko.
 Raspberry Pi batek micro SD txartel bat erabiltzen du disko gogor gisa eta edozein informazio gordetzeko.
 
 - WiFi egokitzailea.
-
 ![Wifi adaptadorea](https://user-images.githubusercontent.com/98529068/154264082-ebc42ccc-f5ba-4549-8943-bc583af4821e.jpg)
 
 WiFi sarearentzako erabili beharko duzu .
