@@ -12,7 +12,6 @@ Don Boscoko ikasle-talde bat gara, eta proiektu bat egin dugu CAF enpresarentzat
 ![Rasberry Pi elikatze iturria](https://user-images.githubusercontent.com/98529068/154255028-2c7a8f42-36ed-4f33-8595-8bfd65c25953.jpg)
 
 RaspberryPI-a  Node-Red instalatzeko  eta WiFi sarea sortzeko erabili dugu.
-
 Elikatze iturria RaspberryPI-a elikatzeko.
 
 - MicroSD txartela
@@ -57,3 +56,10 @@ Osagai guztiak sartzeko eta CAF-i emateko erabiliko dugu.
 
 - ...
  
+# Erronkaren zatiak 
+
+- WiFi sarea sortu 
+
+- Interfaz erabiltzailea 
+
+- Pultsu sortzailea 
