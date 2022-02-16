@@ -49,13 +49,13 @@ Arduinoren antzeko garapen-plataforma da, bereziki gauzen Internetera bideratua.
 
 ![rele 5v](https://user-images.githubusercontent.com/98529068/154269593-ec46f5e9-4ca5-4766-8370-a7afacfd7685.jpg)
 
-Trenaren norantza aldatzeko erabiliko dugu.
+Trenaren norantza aldatzeko erabili dugu.
 
 - Kaxa
 
 ![Caja RS PRO de Aluminio Presofundido Gris, 125 x 80 x 57mm, IP66](https://user-images.githubusercontent.com/98529068/154273826-e4f98575-cc76-4c9b-b829-b4e8fd0789db.jpg)
 
-Osagai guztiak sartzeko eta CAF-i emateko erabiliko dugu.
+Osagai guztiak sartzeko (Raspberry, PCB plaka...) eta CAF-i emateko erabili dugu.
 
 - ...
  
