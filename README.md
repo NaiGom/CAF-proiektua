@@ -83,5 +83,7 @@ Honetaz aparte ere, MQTT protokoloa instalatu behar duzu Dashboard-etik ESP8266-
 
 - MUNTAKETA
 
-Muntaketa egiteko zerrendako kaxa beharko duzu. Honi zuloak egin behar dizkiozu brokarekin eta ondoren lijatu ondo geratzeko.
-Noski,
+Muntaketa egiteko zerrendako kaxa beharko duzu. Honi zuloak egin behar dizkiozu brokarekin eta ondoren lijatu ondo geratzeko. Hau, noski, jarri behar dituzun  gauzen arabera. 
+
+![IMG20220216202026](https://user-images.githubusercontent.com/96518844/154363062-49a24bb2-a8ce-4e14-9180-f6db8bbae1b5.jpg)
+
