@@ -1,10 +1,14 @@
 # CAF-proiektua
 
+Egileak: Eneko Sanz, Iker Sarasola eta Unai Gomez
+
 # SARRERA
 
 Don Boscoko ikasle-talde bat gara, eta proiektu bat egin dugu CAF enpresarentzat. Trenen abiaduraren simulazioan oinarritzen da gure proiektua. Gure proiektuaren helburua maiztasun desberdinak sartuz gero, trenak abiadura desberdinak detektatzea da. Hortaz aparte, trenaren norantza aldatzea lortu behar dugu.
 
 # MATERIAL ZERRENDA
+
+Dokumentu honetan erakutsiko dizugu CAF enpresarentzat egin genuen proiektua egiteko behar duzun materiala eta egin beharreko pausuak.
 
 -  RaspberryPI  1B +  honen elikatze iturria.
 
@@ -63,7 +67,8 @@ Osagai guztiak sartzeko (Raspberry, PCB plaka...) eta CAF-i emateko erabili dugu
 
 - WIFI SAREA
 
- Lehen urratsa, Raspberryren sistema eragilea SD txartelera instalatzea izan zen. Gero, WiFi sare pribatu bat sortzen hasi giñen komandu batzuen bitartez. WiFi sare hori sortu genuen, CAF-eko langileek bakarrik erabil dezaten.
+ Lehen urratsa, Raspberry Pi-aren sistema eragilea SD txartelera instalatzea izan zen. Gero, WiFi sare pribatu bat sortzen hasi ginen komandu batzuen bitartez. WiFi sare hori sortu genuen, CAF-eko langileek bakarrik erabil dezaten.
+ Hona hemen wifia sortzeko pausuak: https://learn.pi-supply.com/make/how-to-setup-a-wireless-access-point-on-the-raspberry-pi/
 
 ![micro sd +raspberry](https://user-images.githubusercontent.com/98529068/154331566-b8e9e13b-ecae-4901-88dd-c0db344f4cce.jpg)
 ![red wifi](https://user-images.githubusercontent.com/98529068/154333900-24a9c113-6050-4f6f-bd6f-ba7cc01e4186.png)
