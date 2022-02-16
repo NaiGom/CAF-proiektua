@@ -75,6 +75,10 @@ Osagai guztiak sartzeko (Raspberry, PCB plaka...) eta CAF-i emateko erabili dugu
 
 - INTERFAZ ERABILTZAILEA
 
+Proiektukoaren zati garrantzitsua da, CAF-eko langileek honekin frekuentzia eta norabidea aldatu dezaketelako. Hau egiteko Raspberryan Node Red eta Node Red Dashboard instalatu behar dituzu.
+Honetaz aparte ere, MQTT protokoloa instalatu behar duzu Dashboard-etik ESP8266-ra informazioa bidaltzeko. Enlaze hontan sartu deskargatzeko: https://www.luisllamas.es/como-instalar-mosquitto-el-broker-mqtt/.
+
+
 - PULTSU SORTZAILEA
 
 - MUNTAKETA
