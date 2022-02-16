@@ -63,9 +63,10 @@ Osagai guztiak sartzeko eta CAF-i emateko erabiliko dugu.
 
 - WIFI SAREA
 
- Lehen urratsa, Raspberryren sistema eragilea SD txartelera instalatzea izan zen. Gero, Wifi sarea hasi giñen sortzen komandu batzuen bitartez.
+ Lehen urratsa, Raspberryren sistema eragilea SD txartelera instalatzea izan zen. Gero, WiFi sare pribatu bat sortzen hasi giñen komandu batzuen bitartez. WiFi sare hori sortu genuen, CAF-eko langileek bakarrik erabil dezaten.
 
 ![micro sd +raspberry](https://user-images.githubusercontent.com/98529068/154331566-b8e9e13b-ecae-4901-88dd-c0db344f4cce.jpg)
+![red wifi](https://user-images.githubusercontent.com/98529068/154333900-24a9c113-6050-4f6f-bd6f-ba7cc01e4186.png)
 
 - INTERFAZ ERABILTZAILEA
 
