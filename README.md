@@ -19,3 +19,21 @@ Elikatze iturria RaspberryPI-a elikatzeko.
 ![MicroSD](https://user-images.githubusercontent.com/98529068/154263610-81146313-2e14-4e58-b6af-fd639c224e4d.jpg)
 
 Raspberry Pi batek micro SD txartel bat erabiltzen du disko gogor gisa eta edozein informazio gordetzeko.
+
+- WiFi adaptadorea 
+
+![Wifi adaptadorea](https://user-images.githubusercontent.com/98529068/154264082-ebc42ccc-f5ba-4549-8943-bc583af4821e.jpg)
+
+WiFi sarearentzako erabili beharko duzu .
+
+- Elikatz iturria
+
+![Elikatze iturria](https://user-images.githubusercontent.com/98529068/154264595-50a81ad8-21b3-4333-a89b-4aefba5bc885.jpg)
+
+Saretik 230V hartzen ditu eta 5 pinetan banatzen da (5V, GND, -15V eta 15V). Bere funtzioa, PCB plakaren konponenteak elikatzea da.
+
+- AD9833 TXIPA
+
+![ad9833](https://user-images.githubusercontent.com/98529068/154265437-8c7ac05a-d526-4afa-a6f5-c48bfb1cd1b8.jpg)
+
+Uhin sinusoidalak, karratuak edo triangeluarrak sortzen dituen txipa da.
