@@ -82,3 +82,6 @@ Honetaz aparte ere, MQTT protokoloa instalatu behar duzu Dashboard-etik ESP8266-
 - PULTSU SORTZAILEA
 
 - MUNTAKETA
+
+Muntaketa egiteko zerrendako kaxa beharko duzu. Honi zuloak egin behar dizkiozu brokarekin eta ondoren lijatu ondo geratzeko.
+Noski,
