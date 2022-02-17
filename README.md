@@ -106,7 +106,7 @@ Hurrengo pausoa, PCB plaka diseinatzea da. Horretarako, proteusaren konexioak ha
 
 ![image](https://user-images.githubusercontent.com/98529068/154376587-ba6952da-8f41-4791-952c-212b02bd5442.png)
 
-Ikusten den bezala, konexio gorriak eta urdinak daude. Horrek esan nahi du, bi aldetatik soldatu dugu. Gorriak plakarean goiko aldean soldatzen dela esan nahi du. Eta urdina berriz, beheko partean. Hortaz aparte, ESP8266 eta AD9833-en package-ak sortu ditugu. Kontuan izan behar da, PCB plaka egiterakoan konponente hauen neurriak hartzea eta zuloak aldatzea.
+Ikusten den bezala, konexio gorriak eta urdinak daude. Horrek esan nahi du, bi aldetatik soldatuta dagoela. Gorriak plakarean goiko aldean soldatzen dela esan nahi du. Eta urdina berriz, behekaldean. Bestalde, ESP8266 eta AD9833-en package-ak sortu ditugu. Kontuan izan behar da, PCB plaka egiterakoan konponente hauen neurriak hartzea eta zuloak aldatzea.
 
 ![download](https://user-images.githubusercontent.com/98529068/154375749-ff506a88-9464-46df-948a-976cf8cb3a05.jpg)
 
