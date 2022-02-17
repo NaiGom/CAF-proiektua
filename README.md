@@ -116,7 +116,7 @@ Beheko argazki honetan ikusten da nola programatu TOPIC-etara subskribitzeko (Ko
 
 ![image](https://user-images.githubusercontent.com/96518844/154542746-8c77c28e-3ca6-4035-a816-a07881ea50be.png)
 
-Hala ere, progama osoa nahi baduzu hobeto ikusteko edo kopiatzeko, jakin, goian programazioa karpetan igota daukazula.
+Hala ere, progama osoa nahi baduzu hobeto ikusteko edo kopiatzeko, jakin, goian programazioa karpetan igota dagoela.
 
 
 # PULTSU SORTZAILEA
