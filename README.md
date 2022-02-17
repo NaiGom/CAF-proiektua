@@ -6,7 +6,6 @@ Egileak: Eneko Sanz, Iker Sarasola eta Unai Gomez
 
 Don Boscoko ikasle-talde bat gara, eta proiektu bat egin dugu CAF enpresarentzat. Trenen abiaduraren simulazioan oinarritzen da gure proiektua. Gure proiektuaren helburua maiztasun desberdinak sartuz gero, trenak abiadura desberdinak detektatzea da. Hortaz aparte, trenaren norantza aldatzea lortu behar dugu.
 
-# FUNTZIONAMENDUA
 
 # MATERIAL ZERRENDA
 
@@ -85,7 +84,7 @@ Honetaz aparte ere, MQTT protokoloa instalatu behar duzu Dashboard-etik ESP8266-
 
 # NOLA BIDALI FREKUENTZIAK AD9833 txipera?
 
-Node Red Dashboardetik trenari frekuentzia edo norabidearen informazioa bidaltzeko, MQTT protokoloa eta ESP8266 txipa erabili behar dira (Badaude pausu hau egiteko beste hainbat modu baina guk horrela egitea gomendatzen dugu). 
+Node Red Dashboardetik trenari frekuentzia edo norabidearen informazioa bidaltzeko, MQTT protokoloa eta ESP8266 txipa erabili behar dira (Badaude pausu hau egiteko beste hainbat modu baina guk horrela egitea gomendatzen dugu). Kontuan izan txip hau WiFi bidez doala eta ESP8266-a WiFI ra konektatu ahal izateko Arduino programan libreriak sartu behar direla
 
 ![image](https://user-images.githubusercontent.com/96518844/154534203-f6a3d59a-d37a-459e-aa68-7e4d10d3bb24.png)
 
