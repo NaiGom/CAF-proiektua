@@ -69,9 +69,8 @@ Osagai guztiak sartzeko (Raspberry, PCB plaka...) erabili dugu.
 
 - ...
  
-# Erronkaren zatiak 
 
-- WIFI SAREA
+# WIFI SAREA
 
  Lehen urratsa, Raspberry Pi-aren sistema eragilea SD txartelera instalatzea izan da. Gero, WiFi sare pribatu bat sortzen hasi gara komandu batzuen bitartez. WiFi sare hori sortu dugu, CAF-eko langileek bakarrik erabil dezaten.
  Hona hemen wifia sortzeko pausuak: https://learn.pi-supply.com/make/how-to-setup-a-wireless-access-point-on-the-raspberry-pi/
@@ -79,7 +78,7 @@ Osagai guztiak sartzeko (Raspberry, PCB plaka...) erabili dugu.
 ![micro sd +raspberry](https://user-images.githubusercontent.com/98529068/154331566-b8e9e13b-ecae-4901-88dd-c0db344f4cce.jpg)
 ![red wifi](https://user-images.githubusercontent.com/98529068/154333900-24a9c113-6050-4f6f-bd6f-ba7cc01e4186.png)
 
-- INTERFAZ ERABILTZAILEA
+# INTERFAZ ERABILTZAILEA
 
 Proiektukoaren zati garrantzitsua da, CAF-eko langileek honekin frekuentzia eta norabidea aldatu dezaketelako. Hau egiteko Raspberryan Node Red eta Node Red Dashboard instalatu behar dituzu.
 Honetaz aparte ere, MQTT protokoloa instalatu behar duzu Dashboard-etik ESP8266-ra informazioa bidaltzeko. Enlaze hontan sartu deskargatzeko: https://www.luisllamas.es/como-instalar-mosquitto-el-broker-mqtt/.
@@ -118,7 +117,7 @@ Beheko argazki honetan ikusten da nola programatu TOPIC-etara subskribitzeko (Ko
 ![image](https://user-images.githubusercontent.com/96518844/154542746-8c77c28e-3ca6-4035-a816-a07881ea50be.png)
 
 
-- PULTSU SORTZAILEA
+# PULTSU SORTZAILEA
 
 Pultsuak sortzeko AD9833 txipa erabili genuen. ESP8266-tik etortzen den frekuentzia AD9833 txipara bidaltzen dio, pultsu hoiek desfasatzen ditugu eta gero anplifikatzen ditugu. Ondoren, pultsu hoiek erreletara joango dira eta errele hoiek trenaren norabidea aldatuko dute. Azkenik, irteeran bi seinale izango ditugu 90 gradutara desfasatuta. 
 
@@ -134,7 +133,7 @@ Ikusten den bezala, konexio gorriak eta urdinak daude. Horrek esan nahi du, bi a
 
 ![download](https://user-images.githubusercontent.com/98529068/154375749-ff506a88-9464-46df-948a-976cf8cb3a05.jpg)
 
-- MUNTAKETA
+# MUNTAKETA
 
 Bukatzeko, Pcb-a, raspberry-a eta elikatze iturria bateratu behar dira kaxa batean. Horretarako, muntaketa egiteko zerrendako kaxa beharko duzu. Honi zuloak egin behar dizkiozu brokarekin eta ondoren lijatu behar bada (Metrica 3 ko zuloak egiteko 3,25mm-ko broka gomendatzen dizugu). Kokapena, noski, hoberen iruditzen zaizun bezela. 
 
