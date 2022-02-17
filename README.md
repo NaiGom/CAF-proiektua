@@ -89,6 +89,7 @@ Node Red Dashboardetik trenari frekuentzia edo norabidearen informazioa bidaltze
 
 ![image](https://user-images.githubusercontent.com/96518844/154534203-f6a3d59a-d37a-459e-aa68-7e4d10d3bb24.png)
 
+![image](https://user-images.githubusercontent.com/96518844/154534766-449f8332-7b4b-4f22-bfb1-8c2420bae349.png)
 
 - ARDUINO PROGRAMA
 
