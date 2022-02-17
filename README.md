@@ -84,11 +84,27 @@ Honetaz aparte ere, MQTT protokoloa instalatu behar duzu Dashboard-etik ESP8266-
 
 # NOLA BIDALI FREKUENTZIAK AD9833 txipera?
 
-Node Red Dashboardetik trenari frekuentzia edo norabidearen informazioa bidaltzeko, MQTT protokoloa eta ESP8266 txipa erabili behar dira (Badaude pausu hau egiteko beste hainbat modu baina guk horrela egitea gomendatzen dugu). Kontuan izan txip hau WiFi bidez doala eta ESP8266-a WiFI ra konektatu ahal izateko Arduino programan libreriak sartu behar direla
-
 ![image](https://user-images.githubusercontent.com/96518844/154534203-f6a3d59a-d37a-459e-aa68-7e4d10d3bb24.png)
 
-Dashboardean frekuentziaren botoia sakatzean, MQTT irteeraren bidez TOPIC-a publikatu egiten da. Arduinoko callback funtzioarekin, ESP8266 txipa subskribitu egiten da 
+
+Node Red Dashboardetik trenari frekuentzia edo norabidearen informazioa bidaltzeko, MQTT protokoloa eta ESP8266 txipa erabili behar dira (Badaude pausu hau egiteko beste hainbat modu baina guk horrela egitea gomendatzen dugu). Kontuan izan txip hau WiFi bidez doala eta ESP8266-a WiFI ra konektatu ahal izateko Arduino programan libreriak sartu eta sortutako access pointeko datuak sartu behar direla (SSID, Pasahitza eta Raspberry Pi-aren IP estatikoa).
+
+
+![image](https://user-images.githubusercontent.com/96518844/154539431-b9baa7c8-2d1f-4645-96bf-9c5e2230dec0.png)                       ![image](https://user-images.githubusercontent.com/96518844/154539735-9f5c4d49-3eed-418e-b2af-9d08b99cedc4.png)
+
+
+
+
+Dashboardean frekuentzia edo norabidearen botoia sakatzean, MQTT irteeraren bidez dagokion TOPIC-a publikatu egiten da. Arduinoko callback funtzioarekin, ESP8266 txipa subskribitu egiten da TOPIC-era eta aldi berean topicaren barruko PAYLOAD edo MEZUA jasotzen du bytetan. Hau String modura pasatzeko honako for funtzioa erabiltzen dugu: 
+
+![image](https://user-images.githubusercontent.com/96518844/154540684-2d904043-2bef-42a4-a093-82635df3ec1f.png)
+
+(Noski, payload string bezala deklaratuta lehenago)
+
+Dagoeneko, payload-a String moduan dugu baina frekuentziaren kasuan Float modura pasatu behar da komando hau erabiliz (freqF lehenago deklaratu):
+
+![image](https://user-images.githubusercontent.com/96518844/154541396-1b888e1b-3557-4f1c-a3bc-62d567364bad.png)
+
 
 
 ![image](https://user-images.githubusercontent.com/96518844/154534766-449f8332-7b4b-4f22-bfb1-8c2420bae349.png)
