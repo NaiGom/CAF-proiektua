@@ -85,7 +85,7 @@ Beheko codigo hau sartu behar duzu librerientzako eta ESP8266-ko pinak deklaratz
 
 ![program1](https://user-images.githubusercontent.com/96518844/154363950-4f348ab5-1fec-45cf-95d7-ca2fbc843417.PNG)
 
-Ondorengo kodigo hau CallBack- rentzako da, hau da, dashboardetik bidalitako mezua jasotzeko:
+Ondorengo kodigo hau CallBack-arentzako da, hau da, dashboardetik bidalitako mezua jasotzeko eta AD9833 txipera bidaltzeko dashboardetik bidalitako datua (Frekuentzia edo Norabidea): 
 
 
 ![image](https://user-images.githubusercontent.com/96518844/154380395-55560104-fc51-4aed-93f2-d57b5b539e68.png)
