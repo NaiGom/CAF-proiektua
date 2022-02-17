@@ -125,6 +125,9 @@ Hala ere, progama osoa nahi baduzu hobeto ikusteko edo kopiatzeko, jakin, goian 
 
 # PULTSU SORTZAILEA
 
+![image](https://user-images.githubusercontent.com/96518844/154548669-c95ed805-dd3a-480d-840c-1613754fb24c.png)
+
+
 Pultsuak sortzeko AD9833 txipa erabili genuen. ESP8266-tik etortzen den frekuentzia AD9833 txipara bidaltzen dio, pultsu hoiek desfasatzen ditugu eta gero anplifikatzen ditugu. Ondoren, pultsu hoiek erreletara joango dira eta errele hoiek trenaren norabidea aldatuko dute. Azkenik, irteeran bi seinale izango ditugu 90 gradutara desfasatuta. 
 
 ![pcb](https://user-images.githubusercontent.com/98529068/154375899-683e6553-bf27-47da-b571-0c5b25836328.PNG)
@@ -144,4 +147,23 @@ Ikusten den bezala, konexio gorriak eta urdinak daude. Horrek esan nahi du, bi a
 Bukatzeko, Pcb-a, raspberry-a eta elikatze iturria bateratu behar dira kaxa batean. Horretarako, muntaketa egiteko zerrendako kaxa beharko duzu. Honi zuloak egin behar dizkiozu brokarekin eta ondoren lijatu behar bada (Metrica 3 ko zuloak egiteko 3,25mm-ko broka gomendatzen dizugu). Kokapena, noski, hoberen iruditzen zaizun bezela. 
 
 ![IMG20220216202026](https://user-images.githubusercontent.com/96518844/154363062-49a24bb2-a8ce-4e14-9180-f6db8bbae1b5.jpg)
+
+
+
+# ARAZOAK EKIDITEKO GOMENDIOAK
+
+Guk arazo ugari izan ditugu proiektua aurrera ateratzeko eta uste dugu zuri ongi etorriko zaizkizula gomendio batzuk guk egin ditugun akatsak ez errepikatzeko: 
+
+- AD9833 txipa: 
+
+![image](https://user-images.githubusercontent.com/96518844/154549652-385942f9-35f3-4e18-b323-3669797202a0.png)
+
+Gure akatsa txip bakarra erostea izan zen. Proiektua entregatzeko epea bukatzen ari zen eta frogaketak egiten ari ginela, ezusteko batean, txipa hautsi egin zen. Arazo honek asko atzeratu gintuen, beraz bat baino gehiago erostea komeni dela uste dugu.
+
+- Planifikazioa:
+
+![image](https://user-images.githubusercontent.com/96518844/154550999-6f50496a-2028-4090-af70-d6baabac9266.png)
+
+Beste akats bat hasieratik bakoitzaren zereginak ondo ez planifikatzea izan zen. Honen ondorioz lehendabiziko astetan piska bat gaulduta ibili ginen zer egin ez jakinez eta horregatik bukaeran larri ibili ginen epean entregatzeko. 
+
 
