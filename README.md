@@ -166,4 +166,12 @@ Gure akatsa txip bakarra erostea izan zen. Proiektua entregatzeko epea bukatzen 
 
 Beste akats bat hasieratik bakoitzaren zereginak ondo ez planifikatzea izan zen. Honen ondorioz lehendabiziko astetan piska bat gaulduta ibili ginen zer egin ez jakinez eta horregatik bukaeran larri ibili ginen epean entregatzeko. 
 
+- Pausuen dokumentazioa:
+
+![image](https://user-images.githubusercontent.com/96518844/154552512-937530a4-9c72-42e1-aced-d4880f08dd58.png)
+
+Guk egin ez genuen beste gauza bat pauso bakoitza dokumentatzea izan zen. Hau egin izan bagenu dena argiago edukiko genuke momentu zailetan eta presentaziorako prestatzeko informazio gehiago edukiko genuke. 
+
+
+
 
