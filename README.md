@@ -83,6 +83,10 @@ Honetaz aparte ere, MQTT protokoloa instalatu behar duzu Dashboard-etik ESP8266-
 Beheko codigo hau sartu behar duzu librerientzako eta ESP8266-ko pinak deklaratzeko.
 ![program1](https://user-images.githubusercontent.com/96518844/154363950-4f348ab5-1fec-45cf-95d7-ca2fbc843417.PNG)
 
+Ondorengo kodigo hau CallBack- rentzako da, hau da, dashboardetik bidalitako mezua iristeko:
+![image](https://user-images.githubusercontent.com/96518844/154380395-55560104-fc51-4aed-93f2-d57b5b539e68.png)
+
+
 
 
 
