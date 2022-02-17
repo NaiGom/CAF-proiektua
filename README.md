@@ -76,7 +76,7 @@ Osagai guztiak sartzeko (Raspberry, PCB plaka...) erabili dugu.
 
 # WIFI SAREA
 
- Lehen urratsa, Raspberry Pi-aren sistema eragilea SD txartelera instalatzea izan da. Gero, WiFi sare pribatu bat sortzen hasi gara komandu batzuen bitartez. WiFi sare hori sortu dugu, CAF-eko langileek bakarrik erabil dezaten.
+ Lehen urratsa, Raspberry Pi-aren sistema eragilea SD txartelera instalatzea izan da. Gero, WiFi sare independiente bat sortzen hasi gara komandu batzuen bitartez. WiFi sare hori sortu dugu, CAF-eko langileek bakarrik erabil dezaten.
  Hona hemen wifia sortzeko pausuak: https://learn.pi-supply.com/make/how-to-setup-a-wireless-access-point-on-the-raspberry-pi/
 
 ![micro sd +raspberry](https://user-images.githubusercontent.com/98529068/154331566-b8e9e13b-ecae-4901-88dd-c0db344f4cce.jpg)
