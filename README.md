@@ -6,6 +6,11 @@ Egileak: Eneko Sanz, Iker Sarasola eta Unai Gomez
 
 Don Boscoko ikasle-talde bat gara, eta proiektu bat egin dugu CAF enpresarentzat. Trenen abiaduraren simulazioan oinarritzen da gure proiektua. Gure proiektuaren helburua maiztasun desberdinak sartuz gero, trenak abiadura desberdinak detektatzea da. Hortaz aparte, trenaren norantza aldatzea lortu behar dugu.
 
+# ARAZOAREN KONTEXTUALIZAZIOA
+
+CAF-eko langileek kontaktatu ziguten trenean abiadurarekin frogak egiteko erabiltzen zuten  modua oso deserosoa zelako eta bi pertsonen beharra zutelako, bakoitza trenaren alde batean, bat frekuentziak bidaltzeko eta bestea gidariaren lekutik frogaketak egiteko. 
+Arazo hau konpontzeko BUENA ONDA enpresakoak produktu bat sortu dugu eta produktu honekin lortzen da langile bakar batek frogaketak egiten ahal izatea modu oso berritzaile eta erosoan. Hainbesteko hobekuntza da mobila edo ordenagailu baten beharra besterik ez dutela behar beraiek nahi dituzten frogaketak egiteko. 
+
 
 # MATERIAL ZERRENDA
 
@@ -106,23 +111,11 @@ Dagoeneko, payload-a String moduan dugu baina frekuentziaren kasuan Float modura
 ![image](https://user-images.githubusercontent.com/96518844/154541396-1b888e1b-3557-4f1c-a3bc-62d567364bad.png)
 
 
+Beheko argazki honetan ikusten da nola programatu TOPIC-etara subskribitzeko (Kontuan izan Void reconnect funtzioan deklaratu behar dituzula MQTT irteerako topicak):
 
 ![image](https://user-images.githubusercontent.com/96518844/154534766-449f8332-7b4b-4f22-bfb1-8c2420bae349.png)
 
-- ARDUINO PROGRAMA
-
-Beheko codigo hau sartu behar duzu librerientzako eta ESP8266-ko pinak deklaratzeko.
-
-
-![program1](https://user-images.githubusercontent.com/96518844/154363950-4f348ab5-1fec-45cf-95d7-ca2fbc843417.PNG)
-
-Ondorengo kodigo hau CallBack-arentzako da, hau da, dashboardetik bidalitako mezua jasotzeko eta AD9833 txipera bidaltzeko dashboardetik bidalitako datua (Frekuentzia edo Norabidea): 
-
-
-![image](https://user-images.githubusercontent.com/96518844/154380395-55560104-fc51-4aed-93f2-d57b5b539e68.png)
-
-
-
+![image](https://user-images.githubusercontent.com/96518844/154542746-8c77c28e-3ca6-4035-a816-a07881ea50be.png)
 
 
 - PULTSU SORTZAILEA
