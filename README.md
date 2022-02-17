@@ -80,6 +80,16 @@ Osagai guztiak sartzeko (Raspberry, PCB plaka...) erabili dugu.
 Proiektukoaren zati garrantzitsua da, CAF-eko langileek honekin frekuentzia eta norabidea aldatu dezaketelako. Hau egiteko Raspberryan Node Red eta Node Red Dashboard instalatu behar dituzu.
 Honetaz aparte ere, MQTT protokoloa instalatu behar duzu Dashboard-etik ESP8266-ra informazioa bidaltzeko. Enlaze hontan sartu deskargatzeko: https://www.luisllamas.es/como-instalar-mosquitto-el-broker-mqtt/.
 
+![image](https://user-images.githubusercontent.com/96518844/154533880-6dac939a-9b4b-4e4b-950d-050008bc9168.png)
+
+
+# NOLA BIDALI FREKUENTZIAK AD9833 txipera?
+
+Node Red Dashboardetik trenari frekuentzia edo norabidearen informazioa bidaltzeko, MQTT protokoloa eta ESP8266 txipa erabili behar dira (Badaude pausu hau egiteko beste hainbat modu baina guk horrela egitea gomendatzen dugu). 
+
+![image](https://user-images.githubusercontent.com/96518844/154534203-f6a3d59a-d37a-459e-aa68-7e4d10d3bb24.png)
+
+
 - ARDUINO PROGRAMA
 
 Beheko codigo hau sartu behar duzu librerientzako eta ESP8266-ko pinak deklaratzeko.
