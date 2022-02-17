@@ -1,15 +1,19 @@
 # CAF-proiektua
 
+![image](https://user-images.githubusercontent.com/96518844/154546961-27ebe748-0d9c-4d46-a88e-9f1a0924dc08.png)
+
 Egileak: Eneko Sanz, Iker Sarasola eta Unai Gomez
 
 # SARRERA
 
-Don Boscoko ikasle-talde bat gara, eta proiektu bat egin dugu CAF enpresarentzat. Trenen abiaduraren simulazioan oinarritzen da gure proiektua. Gure proiektuaren helburua maiztasun desberdinak sartuz gero, trenak abiadura desberdinak detektatzea da. Hortaz aparte, trenaren norantza aldatzea lortu behar dugu.
+![image](https://user-images.githubusercontent.com/96518844/154547793-7f53001d-4cd9-4b03-8eb9-560589dd0ae0.png)
+
+Don Boscoko mantentze-elektronikoko ikasle talde ekintzaile bat gara eta BUENAONDA enpresa sortu dugu. Enpresaren lehen proiektua CAF enpresarentzat izan da. Trenen abiaduraren simulazioan oinarritzen da egindako proiektua. Proiektuaren helburua maiztasun desberdinak sartuz gero, trenak abiadura desberdinak detektatzea da. Hortaz aparte, trenaren norantza aldatzea ere lortu behar dugu.
 
 # ARAZOAREN KONTEXTUALIZAZIOA
 
 CAF-eko langileek kontaktatu ziguten trenean abiadurarekin frogak egiteko erabiltzen zuten  modua oso deserosoa zelako eta bi pertsonen beharra zutelako, bakoitza trenaren alde batean, bat frekuentziak bidaltzeko eta bestea gidariaren lekutik frogaketak egiteko. 
-Arazo hau konpontzeko BUENA ONDA enpresakoak produktu bat sortu dugu eta produktu honekin lortzen da langile bakar batek frogaketak egiten ahal izatea modu oso berritzaile eta erosoan. Hainbesteko hobekuntza da mobila edo ordenagailu baten beharra besterik ez dutela behar beraiek nahi dituzten frogaketak egiteko. 
+Arazo hau konpontzeko BUENAONDA enpresakoak produktu bat sortu dugu eta produktu honekin lortzen da langile bakar batek frogaketak egiten ahal izatea modu oso berritzaile eta erosoan. Hainbesteko hobekuntza da mobila edo ordenagailu baten beharra besterik ez dutela behar beraiek nahi dituzten frogaketak egiteko. 
 
 
 # MATERIAL ZERRENDA
