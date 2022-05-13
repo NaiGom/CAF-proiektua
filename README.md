@@ -136,7 +136,8 @@ Hortaz aparte, elikatze iturri bat daukagu 230V-tara elikatuta. Honek, hainbat p
 
 Hurrengo pausoa, PCB plaka diseinatzea da. Horretarako, proteusaren konexioak hartzen ditugu eta PCB plaka diseinatzen dugu. 
 
-![image](https://user-images.githubusercontent.com/98529068/154376587-ba6952da-8f41-4791-952c-212b02bd5442.png)
+![Captura23](https://user-images.githubusercontent.com/98529068/168248128-d24dfa58-2767-4073-af54-8faa2219c65b.JPG)
+
 
 Ikusten den bezala, konexio gorriak eta urdinak daude. Horrek esan nahi du, bi aldetatik soldatuta dagoela. Gorriak plakarean goiko aldean soldatzen dela esan nahi du. Eta urdina berriz, behekaldean. Bestalde, ESP8266 eta AD9833-en package-ak sortu ditugu. Kontuan izan behar da, PCB plaka egiterakoan konponente hauen neurriak hartzea eta zuloak aldatzea.
 
