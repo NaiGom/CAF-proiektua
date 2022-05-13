@@ -147,7 +147,7 @@ Ikusten den bezala, konexio gorriak eta urdinak daude. Horrek esan nahi du, bi a
 
 Bukatzeko, Pcb-a, raspberry-a eta elikatze iturria bateratu behar dira kaxa batean. Horretarako, muntaketa egiteko zerrendako kaxa beharko duzu. Honi zuloak egin behar dizkiozu brokarekin eta ondoren lijatu behar bada (Metrica 3 ko zuloak egiteko 3,25mm-ko broka gomendatzen dizugu). Kokapena, noski, hoberen iruditzen zaizun bezela. 
 
-![IMG20220216202026](https://user-images.githubusercontent.com/96518844/154363062-49a24bb2-a8ce-4e14-9180-f6db8bbae1b5.jpg)
+![qq](https://user-images.githubusercontent.com/98529068/168262361-036e9832-4b50-447c-960b-768767ed5877.jpg)
 
 
 
